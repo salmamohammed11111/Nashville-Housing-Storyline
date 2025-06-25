@@ -51,6 +51,9 @@ The data contains residential transactions from the Nashville area, including:
 📸 Sample Visual
 
 A scatter plot comparing Sale Price vs Property Age, color-coded by land use, reveals how newer properties dominate higher value brackets. 
+A line plot — it shows how the average sale price changes over time, with each point connected across years to highlight the trend.
+That’s a bar chart, specifically showing the total number of property sales per year — a great way to visualize market activity over time.
+
 
 
 🚀 How to View It 

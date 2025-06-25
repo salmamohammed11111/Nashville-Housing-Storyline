@@ -9,6 +9,9 @@ A Visual Exploration of Real Estate Trends in Nashville, TN
 > 📌 _Note: The dataset used in this project was pre-cleaned using my dedicated SQL workflow here:_  
 > 👉 [Nashville_SQL_Cleaning_Project](https://github.com/salmamohammed11111/Nashville_SQL_Cleaning_Project)
 
+> ![Create an image rela](https://github.com/user-attachments/assets/ac0cfc2f-10f8-4fdc-a5c8-6bcbe77a7511)
+
+
 📍 Overview  
 
  This project uncovers housing market patterns in Nashville using Python-based visualizations. By analyzing over 48,000 property records, we dive into how sale price is influenced by property age, land use type, and structural value — turning raw real estate data into compelling visual narratives.  

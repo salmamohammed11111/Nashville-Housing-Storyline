@@ -48,26 +48,17 @@ The data contains residential transactions from the Nashville area, including:
 - Optional exports via kaleido and plotly
 - Notebook executed in VS Code
   
-📸 Sample Visual
+📸 Sample Visuals
+- Scatter Plot — Sale Price vs Property Age by Land Use
+- Line Plot — Average Sale Price Trends by Year
+- Bar Chart — Total Number of Property Sales per Year
+These visuals support key takeaways and uncover pricing patterns across property types and time.
 
-A scatter plot comparing Sale Price vs Property Age, color-coded by land use, reveals how newer properties dominate higher value brackets. 
-A line plot — it shows how the average sale price changes over time, with each point connected across years to highlight the trend.
-That’s a bar chart, specifically showing the total number of property sales per year — a great way to visualize market activity over time.
-
-
-
-🚀 How to View It 
-
+🚀 How to View
+- Clone the repository
 - Open the notebook in VS Code or Jupyter
-- Ensure packages are installed via pip
-- Run each section step-by-step
-- Explore charts and markdown commentary throughout 
-
-🧠 Future Additions 
-
-- Interactive dashboard using Streamlit
-- Geospatial maps of sales by neighborhood
-- Regression analysis for price prediction 
+- Run the notebook step by step
+- Explore insights and visual narratives
 
 📬 Author                         
 **Salma Mohammed**  
